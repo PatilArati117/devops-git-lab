@@ -4,4 +4,5 @@ Learning Git step by step
 Learning branching, merge
 merge conflict
 conflict i got u
+I got it nowwwww
 
