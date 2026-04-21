@@ -2,3 +2,4 @@ Hello DevOps
 This is my first Git file
 Learning Git step by step
 Learning branching, merge
+merge conflict
